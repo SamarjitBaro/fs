@@ -7,7 +7,7 @@ const obj = {
 };
 const objects = JSON.stringify(obj, null, 2);
 
-file.writeFile("hello.html", objects, (error) => {
+file.writeFile("example.txt", objects, (error) => {
   if (error) {
     console.log("error occured");
   } else {

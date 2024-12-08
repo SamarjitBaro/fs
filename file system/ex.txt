@@ -1,0 +1,13 @@
+{
+  "name": "samar",
+  "age": 26,
+  "food": "non-veg"
+}{
+  "nasd": "heelo"
+}{
+  "nasd": "heelo"
+}{
+  "nasd": "heelo"
+}{
+  "nasd": "heelo"
+}
